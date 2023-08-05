@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="robots:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/robots_jar</output-path>
+    <root id="archive" name="robots.jar">
+      <element id="module-output" name="robots" />
+      <element id="extracted-dir" path="$USER_HOME$/robocode/libs/robocode.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
